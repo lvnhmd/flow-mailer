@@ -61,7 +61,7 @@ Triggers an email flow based on the specified event name.
 | Install |                        `npm i`                        |
 | Test    |                      `npm test`                       |
 | Build   |                    `npm run build`                    |
-| Run     |                       `npm run`                       |
+| Run     |                       `npm start`                       |
 
 ---
 
